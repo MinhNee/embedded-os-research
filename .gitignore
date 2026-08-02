@@ -1,0 +1,10 @@
+# Editor and operating-system files
+Thumbs.db
+.DS_Store
+~$*.pptx
+*.tmp
+
+# Generated build trees
+build/
+output/
+*.log
