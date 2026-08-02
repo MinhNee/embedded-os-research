@@ -6,7 +6,6 @@ Repository lưu trữ kết quả nghiên cứu về quy trình build hệ đi�
 
 1. Tìm hiểu quy trình build Full Flow cho kit BeagleBone Black, gồm quy trình và ý nghĩa của từng bước.
 2. Tìm hiểu hệ điều hành QNX: kiến trúc, kit hỗ trợ, quy trình build, các thành phần, đặc điểm và so sánh với Embedded Linux.
-3. Dùng Git và commit thường xuyên để lưu lại tiến trình nghiên cứu.
 
 ## Tiến độ
 
